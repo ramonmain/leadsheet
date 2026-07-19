@@ -1,0 +1,18 @@
+Warning: Cannot polyfill `DOMMatrix`, rendering may be broken.
+Warning: Cannot polyfill `Path2D`, rendering may be broken.
+=== GRADE CRUA (primeiras 15 linhas) ===
+[0] cols=3: [0]"Clientes"  [1]"Telefones"  [2]"Interesses"
+[1] cols=3: [0]"Paulo Cesar"  [1]"(34)999865883"  [2]"AP0003"
+[2] cols=3: [0]"Juliano"  [1]"(17)988004643"  [2]"TE0001"
+[3] cols=3: [0]"Suzi Franco"  [1]"(17)981835580"  [2]"CA3402_1-3841660"
+[4] cols=3: [0]"Claudia"  [1]"(16)997672432"  [2]"CA2309_1-3811192"
+[5] cols=3: [0]"Rubinho"  [1]"(17)997767126"  [2]"CA4301_1-3829471"
+[6] cols=3: [0]"nilda"  [1]"(18)981276228"  [2]"AP8207_1-3846238"
+[7] cols=3: [0]"Thaís"  [1]"(17)992089546"  [2]"SO0074_1-3801704"
+[8] cols=3: [0]"Marta"  [1]"(17)997281269"  [2]"CA0038"
+[9] cols=3: [0]"Déia"  [1]"(17)991028641"  [2]"CA0015"
+[10] cols=3: [0]"Patricia Lucas"  [1]"(11)932007806"  [2]"AP0003"
+[11] cols=3: [0]"Jessica"  [1]"(17)991487432"  [2]"CH0001"
+[12] cols=3: [0]"Talita Almeida"  [1]"(14)982195149"  [2]"CA0088"
+[13] cols=3: [0]"Mari Souza"  [1]"(11)984209455"  [2]"CA3535_1-3854502"
+[14] cols=3: [0]"Adriana Zampieri"  [1]"(17)997624935"  [2]"CA6685_1-3836531"

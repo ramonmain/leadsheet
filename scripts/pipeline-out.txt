@@ -1,0 +1,26 @@
+Warning: Cannot polyfill `DOMMatrix`, rendering may be broken.
+Warning: Cannot polyfill `Path2D`, rendering may be broken.
+
+=== PIPELINE ATUAL contra C:\Users\ramon\Downloads\planilha.pdf ===
+Ambiguous: false | reason: (nenhum)
+Matrix: 114 linhas (incl. header)
+Detected cols:
+  [0] "Clientes" -> nome | amostra: "Paulo Cesar"
+  [1] "Telefones" -> telefone | amostra: "(34)999865883"
+  [2] "Interesses" -> produto | amostra: "AP0003"
+
+--- Normalizacao ---
+Total lido:    113
+Validas:       113
+Invalidas:     0
+Extras p/ msg: 0
+Reordenou:     true
+
+--- Primeiras 5 linhas validas ---
+  nome="Paulo Cesar" tel="(34)999865883" prod="AP0003"
+  nome="Juliano" tel="(17)988004643" prod="TE0001"
+  nome="Suzi Franco" tel="(17)981835580" prod="CA3402_1-3841660"
+  nome="Claudia" tel="(16)997672432" prod="CA2309_1-3811192"
+  nome="Rubinho" tel="(17)997767126" prod="CA4301_1-3829471"
+
+--- Primeiras 5 invalidas ---
